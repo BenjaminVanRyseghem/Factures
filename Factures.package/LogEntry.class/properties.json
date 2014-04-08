@@ -1,0 +1,15 @@
+{
+	"category" : "Factures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"day",
+		"duration" ],
+	"name" : "LogEntry",
+	"pools" : [
+		 ],
+	"super" : "LogEntity",
+	"type" : "normal" }

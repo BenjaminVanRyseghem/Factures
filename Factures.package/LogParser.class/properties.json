@@ -1,0 +1,14 @@
+{
+	"category" : "Factures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LogParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

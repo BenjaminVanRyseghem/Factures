@@ -1,0 +1,14 @@
+{
+	"category" : "Factures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LogFinder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
