@@ -1,0 +1,4 @@
+private
+computeTimeInEuros
+
+	^ self subclassResponsibility
